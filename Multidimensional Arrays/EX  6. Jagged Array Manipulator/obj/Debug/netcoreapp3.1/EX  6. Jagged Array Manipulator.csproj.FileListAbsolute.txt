@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.exe
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.deps.json
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.dll
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.pdb
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.dll
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.pdb
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\user\source\repos\Multidimensional Arrays\EX  6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\EX  6. Jagged Array Manipulator.csprojAssemblyReference.cache
