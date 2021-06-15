@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.exe
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.deps.json
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.json
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.dev.json
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.dll
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfo.cs
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.dll
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.genruntimeconfig.cache
+C:\Users\user\source\repos\Stacks and Queues\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.AssemblyReference.cache

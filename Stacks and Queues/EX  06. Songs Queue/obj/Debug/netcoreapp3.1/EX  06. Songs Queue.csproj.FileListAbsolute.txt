@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\bin\Debug\netcoreapp3.1\EX  06. Songs Queue.exe
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\bin\Debug\netcoreapp3.1\EX  06. Songs Queue.deps.json
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\bin\Debug\netcoreapp3.1\EX  06. Songs Queue.runtimeconfig.json
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\bin\Debug\netcoreapp3.1\EX  06. Songs Queue.runtimeconfig.dev.json
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\bin\Debug\netcoreapp3.1\EX  06. Songs Queue.dll
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\bin\Debug\netcoreapp3.1\EX  06. Songs Queue.pdb
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\obj\Debug\netcoreapp3.1\EX  06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\obj\Debug\netcoreapp3.1\EX  06. Songs Queue.AssemblyInfo.cs
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\obj\Debug\netcoreapp3.1\EX  06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\obj\Debug\netcoreapp3.1\EX  06. Songs Queue.dll
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\obj\Debug\netcoreapp3.1\EX  06. Songs Queue.pdb
+C:\Users\user\source\repos\Stacks and Queues\EX  06. Songs Queue\obj\Debug\netcoreapp3.1\EX  06. Songs Queue.genruntimeconfig.cache

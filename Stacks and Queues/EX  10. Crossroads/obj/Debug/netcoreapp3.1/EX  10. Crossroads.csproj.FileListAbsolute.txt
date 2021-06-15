@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\bin\Debug\netcoreapp3.1\EX  10. Crossroads.exe
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\bin\Debug\netcoreapp3.1\EX  10. Crossroads.deps.json
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\bin\Debug\netcoreapp3.1\EX  10. Crossroads.runtimeconfig.json
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\bin\Debug\netcoreapp3.1\EX  10. Crossroads.runtimeconfig.dev.json
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\bin\Debug\netcoreapp3.1\EX  10. Crossroads.dll
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\bin\Debug\netcoreapp3.1\EX  10. Crossroads.pdb
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\obj\Debug\netcoreapp3.1\EX  10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\obj\Debug\netcoreapp3.1\EX  10. Crossroads.AssemblyInfo.cs
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\obj\Debug\netcoreapp3.1\EX  10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\obj\Debug\netcoreapp3.1\EX  10. Crossroads.dll
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\obj\Debug\netcoreapp3.1\EX  10. Crossroads.pdb
+C:\Users\user\source\repos\Stacks and Queues\EX  10. Crossroads\obj\Debug\netcoreapp3.1\EX  10. Crossroads.genruntimeconfig.cache
