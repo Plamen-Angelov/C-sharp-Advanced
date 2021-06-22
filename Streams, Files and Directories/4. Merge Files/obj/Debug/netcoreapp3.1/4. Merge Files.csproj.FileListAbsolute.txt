@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.exe
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.deps.json
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.json
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.dev.json
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.dll
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.pdb
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfo.cs
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.dll
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.pdb
+C:\Users\user\source\repos\Streams, Files and Directories\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.genruntimeconfig.cache

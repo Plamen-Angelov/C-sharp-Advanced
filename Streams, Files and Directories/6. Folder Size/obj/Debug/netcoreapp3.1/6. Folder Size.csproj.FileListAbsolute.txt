@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.exe
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.deps.json
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.json
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.dev.json
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfo.cs
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.genruntimeconfig.cache
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\Users\user\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\2. Simple-Calculations-Exercises.docx

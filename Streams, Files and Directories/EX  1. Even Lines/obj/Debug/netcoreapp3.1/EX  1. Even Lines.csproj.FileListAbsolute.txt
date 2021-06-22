@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\EX  1. Even Lines.exe
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\EX  1. Even Lines.deps.json
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\EX  1. Even Lines.runtimeconfig.json
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\EX  1. Even Lines.runtimeconfig.dev.json
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\EX  1. Even Lines.dll
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\bin\Debug\netcoreapp3.1\EX  1. Even Lines.pdb
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\obj\Debug\netcoreapp3.1\EX  1. Even Lines.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\obj\Debug\netcoreapp3.1\EX  1. Even Lines.AssemblyInfo.cs
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\obj\Debug\netcoreapp3.1\EX  1. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\obj\Debug\netcoreapp3.1\EX  1. Even Lines.dll
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\obj\Debug\netcoreapp3.1\EX  1. Even Lines.pdb
+C:\Users\user\source\repos\Streams, Files and Directories\EX  1. Even Lines\obj\Debug\netcoreapp3.1\EX  1. Even Lines.genruntimeconfig.cache
