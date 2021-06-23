@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\bin\Debug\netcoreapp3.1\EX05GenericCountMethodString.exe
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\bin\Debug\netcoreapp3.1\EX05GenericCountMethodString.deps.json
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\bin\Debug\netcoreapp3.1\EX05GenericCountMethodString.runtimeconfig.json
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\bin\Debug\netcoreapp3.1\EX05GenericCountMethodString.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\bin\Debug\netcoreapp3.1\EX05GenericCountMethodString.dll
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\bin\Debug\netcoreapp3.1\EX05GenericCountMethodString.pdb
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.dll
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.pdb
+C:\Users\user\source\repos\Generics\EX05GenericCountMethodString\obj\Debug\netcoreapp3.1\EX05GenericCountMethodString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.exe
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.deps.json
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.runtimeconfig.json
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.dll
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.pdb
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.dll
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.pdb
+C:\Users\user\source\repos\Generics\EX02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\EX02GenericBoxOfInteger.genruntimeconfig.cache
