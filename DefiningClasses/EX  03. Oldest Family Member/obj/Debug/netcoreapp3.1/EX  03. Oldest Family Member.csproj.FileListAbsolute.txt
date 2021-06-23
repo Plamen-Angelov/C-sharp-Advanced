@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\bin\Debug\netcoreapp3.1\EX  03. Oldest Family Member.exe
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\bin\Debug\netcoreapp3.1\EX  03. Oldest Family Member.deps.json
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\bin\Debug\netcoreapp3.1\EX  03. Oldest Family Member.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\bin\Debug\netcoreapp3.1\EX  03. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\bin\Debug\netcoreapp3.1\EX  03. Oldest Family Member.dll
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\bin\Debug\netcoreapp3.1\EX  03. Oldest Family Member.pdb
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.dll
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.pdb
+C:\Users\user\source\repos\DefiningClasses\EX  03. Oldest Family Member\obj\Debug\netcoreapp3.1\EX  03. Oldest Family Member.genruntimeconfig.cache

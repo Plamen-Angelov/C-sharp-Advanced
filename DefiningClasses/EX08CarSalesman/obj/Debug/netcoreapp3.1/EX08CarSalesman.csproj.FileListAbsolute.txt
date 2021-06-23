@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\bin\Debug\netcoreapp3.1\EX08CarSalesman.exe
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\bin\Debug\netcoreapp3.1\EX08CarSalesman.deps.json
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\bin\Debug\netcoreapp3.1\EX08CarSalesman.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\bin\Debug\netcoreapp3.1\EX08CarSalesman.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\bin\Debug\netcoreapp3.1\EX08CarSalesman.dll
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\bin\Debug\netcoreapp3.1\EX08CarSalesman.pdb
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.dll
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.pdb
+C:\Users\user\source\repos\DefiningClasses\EX08CarSalesman\obj\Debug\netcoreapp3.1\EX08CarSalesman.genruntimeconfig.cache

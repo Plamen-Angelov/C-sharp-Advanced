@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\bin\Debug\netcoreapp3.1\EX10SoftUniParking.exe
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\bin\Debug\netcoreapp3.1\EX10SoftUniParking.deps.json
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\bin\Debug\netcoreapp3.1\EX10SoftUniParking.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\bin\Debug\netcoreapp3.1\EX10SoftUniParking.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\bin\Debug\netcoreapp3.1\EX10SoftUniParking.dll
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\bin\Debug\netcoreapp3.1\EX10SoftUniParking.pdb
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.dll
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.pdb
+C:\Users\user\source\repos\DefiningClasses\EX10SoftUniParking\obj\Debug\netcoreapp3.1\EX10SoftUniParking.genruntimeconfig.cache

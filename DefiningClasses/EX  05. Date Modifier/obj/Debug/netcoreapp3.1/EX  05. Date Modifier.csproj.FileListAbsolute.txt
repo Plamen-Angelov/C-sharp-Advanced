@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\bin\Debug\netcoreapp3.1\EX  05. Date Modifier.exe
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\bin\Debug\netcoreapp3.1\EX  05. Date Modifier.deps.json
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\bin\Debug\netcoreapp3.1\EX  05. Date Modifier.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\bin\Debug\netcoreapp3.1\EX  05. Date Modifier.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\bin\Debug\netcoreapp3.1\EX  05. Date Modifier.dll
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\bin\Debug\netcoreapp3.1\EX  05. Date Modifier.pdb
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.dll
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.pdb
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.genruntimeconfig.cache
+C:\Users\user\source\repos\DefiningClasses\EX  05. Date Modifier\obj\Debug\netcoreapp3.1\EX  05. Date Modifier.csproj.AssemblyReference.cache
